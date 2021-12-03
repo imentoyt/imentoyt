@@ -1,4 +1,11 @@
-### Hi there 👋
+# ¡Hola, bienvenido a mi perfil de GitHub! 👋
+
+Actualmente desarrollo proyectos en relación a Fortnite o de carácter personal.
+
+
+### Proyectos
+
+La mayoría de mis proyectos son **privados**. 
 
 <!--
 **imentoyt/imentoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
