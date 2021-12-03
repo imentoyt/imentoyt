@@ -5,8 +5,11 @@ Actualmente desarrollo proyectos en relación a Fortnite o de carácter personal
 
 ### Proyectos
 
-La mayoría de mis proyectos son **privados**. 
+La mayoría de mis proyectos son **privados** y están relacionados a Fortnite o son personales.
 
+### Contáctame
+
+<a href=”https://twitter.com/imentoyt/"><img align=”left” src=”https://raw.githubusercontent.com/imentoyt/imentoyt/main/images/twitter.svg" alt=”imentoyt | Twitter” width=”21px”/></a>
 <!--
 **imentoyt/imentoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
