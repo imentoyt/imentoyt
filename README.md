@@ -4,6 +4,13 @@
 
 La mayoría de mis proyectos son **privados** como <a href="https://twitter.com/entobot" target="_blank" rel="noreferrer">EntoBOT</a> y están relacionados a Fortnite o son personales.
 
+---
+#### Vistazo a mis proyectos destacados.
+1. <a href="https://twitter.com/InfoFortniteES/status/1490083123564007425" target="_blank" rel="noreferrer">Bot de secciones de InfoFortniteES</a>
+2. <a href="https://twitter.com/InfoFortniteES/status/1490113084672856069" target="_blank" rel="noreferrer">Bot de alertas de Salvar El Mundo</a>
+3. <a href="https://twitter.com/entobot" target="_blank" rel="noreferrer">EntoBOT, cuenta totalmente automatizada de Twitter</a>
+4. <a href="https://imentoyt.com/discord" target="_blank" rel="noreferrer">EntoBOT, servidor de Discord automatizado</a>
+
 ### Contáctame
 
 - Twitter: <a href="https://twitter.com/imentoyt" target="_blank" rel="noreferrer">@imentoyt</a> y <a href="https://twitter.com/entoleaks" target="_blank" rel="noreferrer">@entoleaks</a>
@@ -11,7 +18,7 @@ La mayoría de mis proyectos son **privados** como <a href="https://twitter.com/
 
 ### Lenguajes
 
-Actualmente mis proyectos son en <a href="https://es.wikipedia.org/wiki/JavaScript" target="_blank" rel="noreferrer">JavaScript</a> y <a href="https://es.wikipedia.org/wiki/C_Sharp" target="_blank" rel="noreferrer">C#</a>, este último lo estoy aprendiendo.
+Actualmente mis proyectos son en NodeJS y C#, este último lo estoy aprendiendo.
 
 
 <!--
