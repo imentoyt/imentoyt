@@ -10,6 +10,7 @@ La mayoría de mis proyectos son **privados** como <a href="https://twitter.com/
 2. <a href="https://twitter.com/InfoFortniteES/status/1490113084672856069" target="_blank" rel="noreferrer">Bot de alertas de Salvar El Mundo</a>
 3. <a href="https://twitter.com/entobot" target="_blank" rel="noreferrer">EntoBOT, cuenta totalmente automatizada de Twitter</a>
 4. <a href="https://imentoyt.com/discord" target="_blank" rel="noreferrer">EntoBOT, servidor de Discord automatizado</a>
+5. <a href="https://nite-api.com" target="_blank" rel="noreferrer">Colaborador de Nite-Api</a>
 
 ### Contáctame
 
