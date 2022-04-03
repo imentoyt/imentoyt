@@ -1,8 +1,34 @@
-# ¡Hola, bienvenido a mi perfil de GitHub! 👋
+<h1 align="center">Hola 👋, soy ento.</h1>
+<h3 align="center">Desarrollador principiante de backend de España.</h3>
 
-### Proyectos
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imentoyt&label=Profile%20views&color=0e75b6&style=flat" alt="imentoyt" /> </p>
 
-La mayoría de mis proyectos son **privados** como <a href="https://twitter.com/entobot" target="_blank" rel="noreferrer">EntoBOT</a> y están relacionados a Fortnite o son personales.
+<p align="left"> <a href="https://twitter.com/entoleaks" target="blank"><img src="https://img.shields.io/twitter/follow/entoleaks?logo=twitter&style=for-the-badge" alt="entoleaks" /></a> </p>
+
+- 🔭 Estoy trabajando en [EntoBOT](imentoyt.com/discord)
+
+- 🌱 Actualmente estoy aprediendo **C#**
+
+- 📫 Contáctame en [entohd@gmail.com](twitter.com/entoleaks)
+
+<h3 align="left">Conecta conmigo:</h3>
+<p align="left">
+<a href="https://twitter.com/entoleaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="entoleaks" height="30" width="40" /></a>
+<a href="https://instagram.com/entoleaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entoleaks" height="30" width="40" /></a>
+<a href="https://discord.gg/wKsVaNxnMf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="wKsVaNxnMf" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ento"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ento" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imentoyt&show_icons=true&locale=en&layout=compact" alt="imentoyt" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imentoyt&show_icons=true&locale=en" alt="imentoyt" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imentoyt&" alt="imentoyt" /></p>
 
 ---
 #### Vistazo a mis proyectos destacados.
@@ -16,11 +42,6 @@ La mayoría de mis proyectos son **privados** como <a href="https://twitter.com/
 
 - Twitter: <a href="https://twitter.com/imentoyt" target="_blank" rel="noreferrer">@imentoyt</a> y <a href="https://twitter.com/entoleaks" target="_blank" rel="noreferrer">@entoleaks</a>
 - Discord: ento#0117
-
-### Lenguajes
-
-Actualmente mis proyectos son en NodeJS y C#, este último lo estoy aprendiendo.
-
 
 <!--
 **imentoyt/imentoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
