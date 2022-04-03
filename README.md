@@ -11,7 +11,7 @@
 
 - 📫 Contáctame en [entohd@gmail.com](twitter.com/entoleaks)
 
-<h3 align="left">Conecta conmigo:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/entoleaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="entoleaks" height="30" width="40" /></a>
 <a href="https://instagram.com/entoleaks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="entoleaks" height="30" width="40" /></a>
@@ -37,11 +37,6 @@
 3. <a href="https://twitter.com/entobot" target="_blank" rel="noreferrer">EntoBOT, cuenta totalmente automatizada de Twitter</a>
 4. <a href="https://imentoyt.com/discord" target="_blank" rel="noreferrer">EntoBOT, servidor de Discord automatizado</a>
 5. <a href="https://nite-api.com" target="_blank" rel="noreferrer">Colaborador de Nite-Api</a>
-
-### Contáctame
-
-- Twitter: <a href="https://twitter.com/imentoyt" target="_blank" rel="noreferrer">@imentoyt</a> y <a href="https://twitter.com/entoleaks" target="_blank" rel="noreferrer">@entoleaks</a>
-- Discord: ento#0117
 
 <!--
 **imentoyt/imentoyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
