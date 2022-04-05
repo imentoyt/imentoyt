@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy ento.</h1>
-<h3 align="center">Desarrollador principiante de backend de España.</h3>
+<h3 align="center">Desarrollador principiante de backend.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imentoyt&label=Profile%20views&color=0e75b6&style=flat" alt="imentoyt" /> </p>
 
 - 🔭 Estoy trabajando en [EntoBOT](imentoyt.com/discord)
 
-- 🌱 Actualmente estoy aprediendo **C#**
+- 🌱 Actualmente estoy aprendiendo **C#**
 
 - 📫 Contáctame en [entohd@gmail.com](twitter.com/entoleaks)
 
