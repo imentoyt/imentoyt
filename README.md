@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imentoyt&label=Profile%20views&color=0e75b6&style=flat" alt="imentoyt" /> </p>
 
-- 🔭 Estoy trabajando en [EntoBOT](imentoyt.com/discord)
+- 🔭 Estoy trabajando en [EntoBOT](https://imentoyt.com/discord)
 
 - 🌱 Actualmente estoy aprendiendo **C#**
 
-- 📫 Contáctame en [Twitter](twitter.com/entoleaks)
+- 📫 Contáctame en [Twitter](https://twitter.com/entoleaks)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
