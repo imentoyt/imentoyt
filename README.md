@@ -7,7 +7,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **C#**
 
-- 📫 Contáctame en [entobusiness@gmail.com](twitter.com/entoleaks)
+- 📫 Contáctame en [Twitter](twitter.com/entoleaks)
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
