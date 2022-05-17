@@ -10,10 +10,6 @@
 - 📫 Contáctame en [Twitter](https://twitter.com/entoleaks)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imentoyt&show_icons=true&locale=en" alt="imentoyt" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imentoyt&" alt="imentoyt" /></p>
-
 ---
 #### Vistazo a mis proyectos destacados.
 1. <a href="https://twitter.com/InfoFortniteES/status/1490083123564007425" target="_blank" rel="noreferrer">Bot de secciones de InfoFortniteES</a>
