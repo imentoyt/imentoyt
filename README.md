@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy ento.</h1>
-<h3 align="center">Desarrollador backend principiante.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imentoyt&label=Profile%20views&color=0e75b6&style=flat" alt="imentoyt" /> </p>
 
