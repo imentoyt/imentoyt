@@ -2,7 +2,7 @@
 
 - 🔭 Estoy trabajando en [EntoBOT](https://imentoyt.com/discord)
 
-- 🌱 Actualmente estoy aprendiendo **NextJS**
+- 🌱 Actualmente estoy aprendiendo **undefined**
 
 - 📫 Contáctame en [Twitter](https://twitter.com/entoleaks)
 
